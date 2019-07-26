@@ -3,7 +3,7 @@ package coreJava;
 public class GetSet {
 	
 	private String empName;
-	public static int amt=0;
+	public static int amt;
 	
 	
 	public String getEmpName() {
